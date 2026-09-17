@@ -21,3 +21,7 @@ This case study covers:
 - Product metrics
 
 More detailed case study and product artifacts below.
+
+## Case Study
+
+📄 [View the complete BuildOS Product Case Study](./BuildOS-Product-Case-Study.pdf)
