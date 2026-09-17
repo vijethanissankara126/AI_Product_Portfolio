@@ -32,4 +32,3 @@ YatraAI explores how a coordinated multi-agent system can bring these activities
 - 🧩 Multi-Agent Workflow
 - 🎨 Wireframes
 - 🖥️ Prototype
-- 📊 Product Strategy & Analysis
